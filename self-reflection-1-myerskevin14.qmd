@@ -1,0 +1,74 @@
+---
+title: "self reflection"
+author: "Kevin Myers"
+format: html
+editor: visual
+---
+
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/oQRH4AqL) \# self-reflection-1 This is the first of three self-reflections that you'll complete during the course. These provide an opportunity for me to learn more about you, check-in on how the course is going, and make sure that getting what you need from the course materials. **This first reflection also helps us set the standards for your assessment in the course.** As such, I'm asking that you complete this in a timely fashion and turn it in by **Aug. 30**.
+
+## Instruction
+
+1.  After you've joined the assignment repository, you should have this file (named `Readme.md`) inside of a R project named `self-reflection-1-xx` where `xx` is your github username (or initials).
+
+2.  Once you've verified that you've correctly cloned the assignment repository, [create a new Quarto document](https://quarto.org/docs/get-started/authoring/rstudio.html). Name this file `self-reflection-1-xxx.qmd` and give it a title (like M Williamson Self-Reflection 1). Make sure that you select the `html` output option (Quarto can do a lot of cool things, but the html format is the least-likely to cause you additional headaches). We'll be using Quarto throughout the course so it's worth checking out the other tutorials in the getting started section.
+
+3.  Copy the questions below into your document and [change the color of their text](https://meghan.rbind.io/blog/quarto-slides/).
+
+4.  Save the changes and make your first commit!
+
+5.  Answer the questions making sure **save and commit at least 4 more times** (having 5 commits is part of the assignment).
+
+6.  Render the document to html (you should now have at least 3 files in the repository: Readme.md, self-reflection-1-xx.qmd, and self-reflection-1-xx.html). Commit these changes and push them to the repository on GitHub. You should see the files there when you go to github.com.
+
+## Questions
+
+**About you**
+
+1.  Please tell me a little bit about your research interests and how you imagine integrating spatial data in your research.
+
+    I am currently working with movement data from satellite and cellular transmitters affixed to juvenile golden eagles. My research pertains to the period of time when the young bird has left its nest and is being taught by their parents how to fly and hunt. I plan to integrate spatial data into my research by mapping where the young are flying and determining the timing of the onset of independence.  
+
+2.  How do you learn best, and what do you feel is your biggest strength as a student?
+
+    I learn best by following along in class with codes and independent work. I think that my biggest strength as a student is problem solving skills. I feel confident that when I get stuck or confused, I can look up my questions or ask the instructor for help.
+
+3.  If you want to, you can set a goal for this semester for something you want to work on in the context of this course (outside of the topic matter itself) -- for example, using StackOverflow to get answers to analysis questions or using git to track progress on homeworks. If you choose to set this type of goal, what can you do to help support yourself in working toward that goal? How can I help you to meet this goal?
+
+    I would like to be able to use StackOverflow efficiently as well as becoming more familiar/confident using git and github. When problems arise, starting with StackOverflow/git instead of just googling or using chatgpt for help will make this goal more achievable. Also participating in class and asking for help in the moment instead of waiting until after class will also facilitate accomplishing this goal. 
+
+4.  You can, if you choose, also let me know if there is anything else you have going on this semester that you would like me to know about (e.g., field work, other courses, prepping your qualifying exam, working outside of assistantship).
+
+    I am also enrolled in EEB 627 - applied population ecology, that will require a substantial amount of R coding and use of github. 
+
+**This Course**
+
+5.  Please tell me a little about your prior experience with R ("I use it all the time", "I am still learning", "I've never used it before"). What do you like most about working with R? What are the biggest obstacles for you when working with R?
+
+    I feel pretty new to R even after taking Biometry and EcoStats last year. I really like seeing real-time progress with code running without error messages but also like the feeling of troubleshooting error codes. Starting new code is my biggest challenge. Knowing where to start when uploading a new data set can be intimidating sometimes and making sure to check all assumptions of the data before analyzing can also be challenging.
+
+6.  Describe your experience working with spatial data and GIS (either in R, or ArcGIS, or QGIS etc.). How do you tend to use spatial data (e.g., making maps, desiging field sampling, buidling stastical models)?
+
+    I have made a few maps with ArcGIS but don\'t feel confident doing so without assistance in person or without a detailed guide.
+
+7.  How do you feel about taking this course (e.g., neutral, positive, negative) and why (e.g., aspects you are worried about, or looking forward to)?
+
+    I feel positive about taking this course. I think that it offers a lot of skills that I will need to complete my research such as map making as well as analysis skills with modeling and dealing with different data sets.
+
+8.  After reviewing the syllabus, give some thought to your objectives for this course. Which parts of this course are going to be most useful to your research? What skills do you really want to focus on during the semester? Once you've given this some thought, craft 3-5 SMART objectives for you in this course. SMART objectives are **S**pecific (e.g., I want to make maps in R), **M**easurable (e.g., I want to build *3 maps displaying different elements of a location* in R), **A**chievable (e.g., I want to build 3 maps displaying different elements of a location *using ggplot*), **R**elevant (e.g., I want to build 3 maps displaying *social and ecological* elements of a location using ggplot), and **T**ime-bound (e.g., I want to build 3 maps displaying *social and ecological* elements of a location using ggplot *for the final project*). Try to think about your overall objectives for the course so that we can use to assess your final project. Remember, these objectives should be based in where you are now and where you'd like to be when the course ends. **If you're not sure how to answer this, schedule a meeting with me to chat about it**.
+
+    Map making and becoming familiar with different R tools like quarto will be very helpful in my research. I want to be able to make maps in R. Including features like movement of individuals on the map is another goal I would like to set for myself. I want to build maps that incorporate juvenile movement with relation to their natal territories to show when the young leave their home. For the final project I would like to pick something that has transferable skills to my research like mapping a territory and including land-cover change over time as well as other geological features. I would also like to feel more confident making maps in R with ggplot as well as with ArcGIS. 
+
+9.  Given the grading 'contracts' laid out in the syllabus and your objectives above, what grade would you like to achieve in this course? How will you support yourself in achieving this grade? How can I help?
+
+    I would like to achieve an A in this course, given the provided grading contracts. I hope to support myself by participating in class discussions as well as working on homework assignments to my best ability. I think that the class is laid out in an approachable format and that I will need to ask for help when I need it and not panic until the end of class and leave confused.
+
+10. Are there topics on the syllabus that are particularly important for you? What is missing?
+
+    Mapping in R/GIS is an important part of the class that seems most applicable to my research but am also very interested in learning about Rasters and different statistical modelling techniques. Interpreting movement data is also something I am interested in.
+
+**Final Thoughts**
+
+11. Is there anything else you'd like me to know about you or that you want to know about the course?
+
+I am looking forward to the semester and am hoping to put forth the effort needed to accomplish my goals for the class. I think that the class size will be conducive for me to ask questions when I have them without feeling pressured to already know the material.
